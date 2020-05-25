@@ -1,0 +1,22 @@
+{
+  "name": "oliverkierepka.de",
+  "version": "0.0.1",
+  "description": "Oliver Kierepka Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrmoree/oliverkierepka.de.git"
+  },
+  "author": "Oliver Kierepka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrmoree/oliverkierepka.de/issues"
+  },
+  "homepage": "https://github.com/mrmoree/oliverkierepka.de#readme",
+  "dependencies": {
+    "expressjs": "^1.0.1"
+  }
+}
